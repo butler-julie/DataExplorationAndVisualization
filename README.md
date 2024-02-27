@@ -19,3 +19,5 @@ To run this tutorial locally, you must have Python3 installed along with the fol
 These libraries can be installed via pip, conda, brew, or any other package manager. 
 
 As currently written, the notebook expects the data file (`nuclear_data.tsv`) to be in the same folder as the notebook. The easiest way to accomplish this is to clone this repo to your computer (you can followig [Github's tutorial on cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)) and run the notebook from that folder. If you want to move the data file to a different directory than the notebook, you will have to adjust code cell 2 to reflect these changes.
+
+Jupyter notebook can be used to run this tutorial. For information on running a notebook with Jupyter, refer to [Jupyter's tutorials](https://docs.jupyter.org/en/latest/).

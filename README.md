@@ -5,4 +5,17 @@ A tutorial on data exploration and visualization creating for the 2024 APS March
 
 ## Instructions for Running with Google Colab
 
+
 ## Instructions for Running Locally
+To run this tutorial locally, you must have Python3 installed along with the following packages:
+
+* Jupyter Notebooks
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+
+These libraries can be installed via pip, conda, brew, or any other package manager. 
+
+As currently written, the notebook expects the data file (`nuclear_data.tsv`) to be in the same folder as the notebook. The easiest way to accomplish this is to clone this repo to your computer (you can followig [Github's tutorial on cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)) and run the notebook from that folder. If you want to move the data file to a different directory than the notebook, you will have to adjust code cell 2 to reflect these changes.

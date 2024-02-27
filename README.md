@@ -4,7 +4,7 @@ A tutorial on data exploration and visualization creating for the 2024 APS March
 ## Introduction
 
 ## Instructions for Running with Google Colab
-
+[Google Colab](https://colab.research.google.com) is a cloud based software which runs Python notebooks. One of the main perks of Google Colab is that many popular Python libraries come pre-installed, so there is not set-up needed. You can run this tutorial on Google Colab by
 
 ## Instructions for Running Locally
 To run this tutorial locally, you must have Python3 installed along with the following packages:
